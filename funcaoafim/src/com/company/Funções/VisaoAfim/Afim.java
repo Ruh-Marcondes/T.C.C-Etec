@@ -20,13 +20,21 @@ public class Afim {
     private JLabel labelraiz;
     private JLabel Labeldefinicao2;
 
+    private boolean click;
     // Objetos do JFrame
     public Afim() {
         definiçãoButton.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-             labeldefinicao.setText("A função afim, também chamada de função do 1º grau,  é uma função ");
-             Labeldefinicao2.setText("f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais.");
+                if (click == true){
+                click = false;
+                labeldefinicao.setText(" ");
+                Labeldefinicao2.setText(" ");
+                } else{
+                    labeldefinicao.setText("A função afim, também chamada de função do 1º grau,  é uma função ");
+                    Labeldefinicao2.setText("f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais.");
+                    click = true;
+                }
             }
         });
         calcularButton.addMouseListener(new MouseAdapter() {
@@ -37,24 +45,25 @@ public class Afim {
                 raiz();
             }
         });
+        limparButton.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                a = 0; b= 0; x = 0; y = 0;
+                textField_a.setText("");
+                textField_b.setText("");
+                textField_x.setText("");
+                textField_fx.setText("");
+                LabelResposta.setText(" ");
+                labelraiz.setText(" ");
+            }
+        });
         labeldefinicao.addMouseWheelListener(new MouseWheelListener() {
             @Override
             public void mouseWheelMoved(MouseWheelEvent e) {
                 labeldefinicao.setText(" ");
             }
         });
-        definiçãoButton.addComponentListener(new ComponentAdapter() {
-        });
-        limparButton.addMouseListener(new MouseAdapter() {
-            @Override
-            public void mouseClicked(MouseEvent e) {
-                textField_a.setText(" ");
-                textField_b.setText(" ");
-                textField_x.setText(" ");
-                textField_fx.setText(" ");
-                LabelResposta.setText(" ");
-                labelraiz.setText(" ");
-            }
+        definiçãoButton.addMouseMotionListener(new MouseMotionAdapter() {
         });
     }
 
@@ -63,7 +72,6 @@ public class Afim {
     }
 
     // Metódos dos calculos
-    // receber
     public void receber(){
         verificaa();
         verificab();
@@ -76,21 +84,19 @@ public class Afim {
         verificay();
 
     }
-
-
         // Metodos para verificar onde está o null
-    public void verificaa() {
+        public void verificaa() {
         String t = textField_a.getText();
         if (t.isEmpty()){
             a = 0;
             calca(y,b,x);
             LabelResposta.setText("a = "+ a);
             System.out.println(a);
-        }else {
+        } else {
             a =  Double.parseDouble(textField_a.getText());
         }
-    }
-    public void verificab(){
+    } // verifica - a
+        public void verificab(){
         String t = textField_b.getText();
         if (t.isEmpty()){
             b = 0;
@@ -99,7 +105,7 @@ public class Afim {
         }else {
             b =  Double.parseDouble(textField_b.getText());
         }
-    }
+    }//verifica - b
         public void verificax(){
             String t = textField_x.getText();
             if (t.isEmpty()){
@@ -109,7 +115,7 @@ public class Afim {
             }else {
                 x =  Double.parseDouble(textField_x.getText());
             }
-        }
+        } // verifica x
         public void verificay(){
             String t = textField_fx.getText();
             if (t.isEmpty()){
@@ -119,8 +125,9 @@ public class Afim {
             }else {
                 y =  Double.parseDouble(textField_fx.getText());
             }
-        }
-    // Metodos dos calculos '-'
+        } // verifica f(x)
+
+        // Metodos dos calculos '-'
     public static double calcy(double a, double b, double x){
         y = (a*x) + b;
         return  y;
@@ -137,7 +144,6 @@ public class Afim {
         x = ((y-b)/a);
         return x;
     }
-
     public void raiz(){
         double r;
         r = (b*-1)/a;
