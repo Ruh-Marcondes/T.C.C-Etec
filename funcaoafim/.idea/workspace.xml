@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55644029-15a4-4e86-951f-1e12ad915af3" name="Default Changelist" comment="" />
+    <list default="true" id="55644029-15a4-4e86-951f-1e12ad915af3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UAdtdidBw7PFijVLQNqhQwmEaV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="232" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574778961874" />
@@ -67,6 +83,17 @@
       <updated>1574777002009</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

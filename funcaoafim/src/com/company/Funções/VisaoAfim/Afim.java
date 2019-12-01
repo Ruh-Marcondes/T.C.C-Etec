@@ -18,13 +18,15 @@ public class Afim {
     private JLabel labeldefinicao;
     private JLabel LabelResposta;
     private JLabel labelraiz;
+    private JLabel Labeldefinicao2;
 
     // Objetos do JFrame
     public Afim() {
         definiçãoButton.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseClicked(MouseEvent e) {
-             labeldefinicao.setText(" -_-    '-'      x_");
+             labeldefinicao.setText("A função afim, também chamada de função do 1º grau,  é uma função ");
+             Labeldefinicao2.setText("f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais.");
             }
         });
         calcularButton.addMouseListener(new MouseAdapter() {
