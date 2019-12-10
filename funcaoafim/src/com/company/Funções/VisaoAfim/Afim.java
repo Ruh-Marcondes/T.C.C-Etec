@@ -28,8 +28,8 @@ public class Afim {
             public void mouseClicked(MouseEvent e) {
                 if (click == true){
                 click = false;
-                labeldefinicao.setText(" ");
-                Labeldefinicao2.setText(" ");
+                labeldefinicao.setText("");
+                Labeldefinicao2.setText("");
                 } else{
                     labeldefinicao.setText("A função afim, também chamada de função do 1º grau,  é uma função ");
                     Labeldefinicao2.setText("f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais.");
