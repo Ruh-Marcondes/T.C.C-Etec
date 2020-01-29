@@ -1,4 +1,6 @@
 package br.com.pfalves.myapplication;
 
-public class SegundaActividy {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class SegundaActividy extends AppCompatActivity {
 }
