@@ -19,6 +19,7 @@
             android:text="@string/btnInicial"
             android:layout_width="189dp"
             android:layout_height="55dp" tools:layout_editor_absoluteY="417dp"
-            tools:layout_editor_absoluteX="111dp" android:id="@+id/btnInicial"/>
+            tools:layout_editor_absoluteX="111dp" android:id="@+id/btnInicial"
+            android:OnClick="abrirSegundaAcitivity"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
