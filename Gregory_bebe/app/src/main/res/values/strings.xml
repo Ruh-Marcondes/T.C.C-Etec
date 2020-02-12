@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Gregory_bebe</string>
+    <string name="app_name">Gregory_baby</string>
     <string name="PrimeiraLinha">Hello Word!</string>
+    <string name="btn_inicial"> Primeiro Botão</string>
 </resources>
