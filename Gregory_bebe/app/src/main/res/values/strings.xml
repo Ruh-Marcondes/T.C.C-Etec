@@ -2,4 +2,5 @@
     <string name="app_name">Gregory_baby</string>
     <string name="PrimeiraLinha">Hello Word!</string>
     <string name="btn_inicial"> Primeiro Botão</string>
+    <string name="labelsegunda">Segunda Tela</string>
 </resources>
