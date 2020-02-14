@@ -18,7 +18,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SegundaActivity"
-        android:lebel="@string/lebalsegunda"></activity>
+        android:lebel="@string/lebalsegunda">
+
+        </activity>
     </application>
 
 </manifest>
