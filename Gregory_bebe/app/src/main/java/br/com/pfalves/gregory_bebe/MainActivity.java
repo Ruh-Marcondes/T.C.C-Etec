@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Button button = (Button) findViewById(R.id.btninit);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 startActivity(new Intent(getBaseContext(),SegundaActivity.class));
             }
         });
