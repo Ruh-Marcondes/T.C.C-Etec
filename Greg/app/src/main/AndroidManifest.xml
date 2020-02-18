@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        // Minha Acitivity - SegundaActvity
+        <activity android:name=".SegundaAcitivity"
+            android:label="@string/txtdois"></activity>
     </application>
 
 </manifest>
