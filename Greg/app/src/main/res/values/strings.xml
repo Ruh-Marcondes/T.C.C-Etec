@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greg</string>
+    <string name="btnone">Click Aqui</string>
+    <string name="txtini">Hello Word!</string>
+    <string name="txtdois">Segunda "Pagina"</string>
+    <string name="txtini2">Watashi wa Gregory desu</string>
+</resources>
