@@ -26,7 +26,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55644029-15a4-4e86-951f-1e12ad915af3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/funcaoafim/com/company/Funções/VisaoAfim/Afim$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Funções/VisaoAfim/Afim.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,22 +129,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1582131532863" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1582132517998">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1582133017120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582132517998" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1582132517998">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582133017120" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1582133017120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582132517998" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1582132517998">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582133017120" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1582133017120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582132517998" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1582132517998">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582133017120" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1582133017120">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582132517998" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582133017120" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
