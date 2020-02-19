@@ -7,20 +7,21 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
+import br.com.greg.Afim.AfimAcitivity;
+
+public class SegundaActivity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_segunda);
 
-        Button btn = (Button) findViewById(R.id.btninit);
+        Button btn = (Button)findViewById(R.id.btn1);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getBaseContext(),SegundaActivity.class));
+                startActivity(new Intent(getBaseContext(), AfimAcitivity.class));
             }
         });
     }
-
-    }
+}

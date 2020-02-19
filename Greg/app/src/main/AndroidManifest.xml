@@ -16,6 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SegundaActivity">
+        </activity>
+
+        <activity android:name=".FuncoesActivity">
+
+        </activity>
+
+        <activity android:name=".Afim.AfimAcitivity"
+                  android:label="@string/paginaafim"></activity>
     </application>
 
 </manifest>

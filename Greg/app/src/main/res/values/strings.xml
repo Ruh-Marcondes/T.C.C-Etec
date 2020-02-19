@@ -1,7 +1,18 @@
 <resources>
     <string name="app_name">Greg</string>
-    <string name="btnone">Click Aqui</string>
+    <string name="paginaafim">Função Afim</string>
+    // Label - dentro da pag
     <string name="txtini">Hello Word!</string>
     <string name="txtdois">Segunda "Pagina"</string>
     <string name="txtini2">Watashi wa Gregory desu</string>
+    <string name="definiçãoaffim1"></string>
+    // Buttons
+    <string name="btnone">Click Aqui</string>
+
+    <string name="txtbtn1">Funçoes</string>
+    <string name="txtbtn2">Inequações</string>
+
+    <string name="txtbtn3">Função Afim</string>
+    <string name="txtbtn4">Função Quadratica</string>
+    <string name="txtbtn5">função Exonencial </string>
 </resources>
