@@ -76,7 +76,7 @@
                     <properties>
                       <font name="Old English Text MT" size="24" style="2"/>
                       <foreground color="-15570671"/>
-                      <text value="F(x) = a*x +b"/>
+                      <text value="F(x) = ax +b"/>
                     </properties>
                   </component>
                   <hspacer id="f76fb">
@@ -210,7 +210,7 @@
               <background color="-15570671"/>
               <font size="16" style="3"/>
               <foreground color="-15570671"/>
-              <text value="*"/>
+              <text value="."/>
             </properties>
           </component>
           <component id="24419" class="javax.swing.JLabel">
