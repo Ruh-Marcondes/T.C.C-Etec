@@ -14,7 +14,7 @@ public class SegundaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_segunda);
+        setContentView(R.layout.activity_materias);
 
         Button btn = (Button)findViewById(R.id.btn1);
         btn.setOnClickListener(new View.OnClickListener() {

@@ -9,11 +9,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import br.com.greg.Afim.AfimAcitivity;
 
-public class FuncoesActivity extends AppCompatActivity {
+public class MateriaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_funcoes);
+        setContentView(R.layout.activity_materias);
 
         Button btn = (Button) findViewById(R.id.btn3);
         btn.setOnClickListener(new View.OnClickListener() {

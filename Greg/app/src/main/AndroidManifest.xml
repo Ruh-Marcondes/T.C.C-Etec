@@ -19,7 +19,7 @@
         <activity android:name=".SegundaActivity">
         </activity>
 
-        <activity android:name=".FuncoesActivity">
+        <activity android:name=".MateriaActivity">
 
         </activity>
 
