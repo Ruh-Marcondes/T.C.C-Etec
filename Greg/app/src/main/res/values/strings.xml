@@ -8,14 +8,18 @@
     <string name="txtini2">Watashi wa Gregory desu</string>
 
     //Definiçoes
-    <string name="definiçãoaffim1"></string>
+    <string name="definiçãoaffim1"> </string>
 
     // Buttons
     <string name="btnone">Click Aqui</string>
 
+    // btn materias
     <string name="txtbtn1">Função Afim</string>
     <string name="txtbtn2">Função Quadratica</string>
     <string name="txtbtn3">função Exonencial </string>
     <string name="txtbtn4">Alguma coisa  </string>
     <string name="txtbtn5">Ainda ñ sei </string>
+
+    // btn Afim
+    <string name="btnaf">Definição </string>
 </resources>

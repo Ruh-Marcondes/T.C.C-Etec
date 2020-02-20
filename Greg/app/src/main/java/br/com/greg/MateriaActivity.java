@@ -15,7 +15,7 @@ public class MateriaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_materias);
 
-        Button btn = (Button) findViewById(R.id.btn3);
+        Button btn = (Button) findViewById(R.id.btn1);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
