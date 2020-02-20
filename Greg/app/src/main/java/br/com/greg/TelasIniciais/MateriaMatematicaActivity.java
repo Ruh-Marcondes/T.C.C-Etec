@@ -1,16 +1,16 @@
-package br.com.greg;
+package br.com.greg.TelasIniciais;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import br.com.greg.Afim.AfimAcitivity;
+import br.com.greg.Materias.Afim.AfimAcitivity;
+import br.com.greg.R;
 
-public class MateriaActivity extends AppCompatActivity {
+public class MateriaMatematicaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

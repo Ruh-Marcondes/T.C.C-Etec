@@ -1,4 +1,4 @@
-package br.com.greg.Afim;
+package br.com.greg.Materias.Afim;
 
 import android.content.Intent;
 import android.os.Bundle;
