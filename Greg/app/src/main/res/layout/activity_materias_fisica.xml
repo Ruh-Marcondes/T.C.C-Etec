@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnfisc1" />
+
+    <Button
+        android:id="@+id/btnf2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnfisc2" />
+
+    <Button
+        android:id="@+id/btnf3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnfisc3" />
+
+    <Button
+        android:id="@+id/bn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnfisc4" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnfisc5" />
+</LinearLayout>
