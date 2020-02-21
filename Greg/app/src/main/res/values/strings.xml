@@ -11,7 +11,8 @@
     <string name="definiçãoaffim1"> </string>
 
     // Buttons
-    <string name="btnone">Click Aqui</string>
+    <string name="btnone">Matematica</string>
+    <string name="btndois">Fisica</string>
 
     // btn materias Math
     <string name="txtbtn1">Função Afim</string>
