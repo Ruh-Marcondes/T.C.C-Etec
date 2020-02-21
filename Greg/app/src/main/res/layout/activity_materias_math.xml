@@ -28,11 +28,11 @@
         android:id="@+id/btn4"
         android:layout_width="346dp"
         android:layout_height="wrap_content"
-        android:text="" />
+        android:text="@string/txtbtn4" />
 
     <Button
         android:id="@+id/btn5"
         android:layout_width="347dp"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/txtbtn5" />
 </LinearLayout>

@@ -13,15 +13,24 @@
     // Buttons
     <string name="btnone">Click Aqui</string>
 
-    // btn materias
+    // btn materias Math
     <string name="txtbtn1">Função Afim</string>
     <string name="txtbtn2">Função Quadratica</string>
     <string name="txtbtn3">função Exonencial </string>
     <string name="txtbtn4">Alguma coisa  </string>
     <string name="txtbtn5">Ainda ñ sei </string>
 
+
     // btn Afim
     <string name="btnaf">Definição </string>
 
     <string name="andaemto">Esta tela ñ esta pronta </string>
+
+    //Btn materias fisica
+
+    <string name="btnfisc1">Movimento Uniforme </string>
+    <string name="btnfisc2"> Movimento Uniformente Variado</string>
+    <string name="btnfisc3"></string>
+    <string name="btnfisc4"></string>
+    <string name="btnfisc5"></string>
 </resources>
