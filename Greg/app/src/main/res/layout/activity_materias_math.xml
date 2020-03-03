@@ -17,9 +17,10 @@
             android:baselineAligned="false"
             android:text="@string/txtbtn1"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.251"
-            tools:layout_editor_absoluteX="34dp" />
+            app:layout_constraintVertical_bias="0.251" />
 
         <Button
             android:id="@+id/btn2"
@@ -28,9 +29,10 @@
             android:baselineAligned="false"
             android:text="@string/txtbtn2"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.342"
-            tools:layout_editor_absoluteX="34dp" />
+            app:layout_constraintVertical_bias="0.342" />
 
         <Button
             android:id="@+id/btn3"
@@ -38,9 +40,10 @@
             android:layout_height="43dp"
             android:text="@string/txtbtn3"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.43"
-            tools:layout_editor_absoluteX="34dp" />
+            app:layout_constraintVertical_bias="0.43" />
 
         <Button
             android:id="@+id/btn4"
@@ -48,9 +51,10 @@
             android:layout_height="37dp"
             android:text="@string/txtbtn4"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.159"
-            tools:layout_editor_absoluteX="39dp" />
+            app:layout_constraintVertical_bias="0.159" />
 
         <Button
             android:id="@+id/btn5"
@@ -106,6 +110,7 @@
             tools:layout_editor_absoluteY="213dp" />
 
         <Space
+            android:id="@+id/space"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"
