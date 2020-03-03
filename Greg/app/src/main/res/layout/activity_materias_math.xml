@@ -18,7 +18,7 @@
             android:text="@string/txtbtn1"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.195"
+            app:layout_constraintVertical_bias="0.251"
             tools:layout_editor_absoluteX="34dp" />
 
         <Button
@@ -29,7 +29,7 @@
             android:text="@string/txtbtn2"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.293"
+            app:layout_constraintVertical_bias="0.342"
             tools:layout_editor_absoluteX="34dp" />
 
         <Button
@@ -39,7 +39,7 @@
             android:text="@string/txtbtn3"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.432"
+            app:layout_constraintVertical_bias="0.43"
             tools:layout_editor_absoluteX="34dp" />
 
         <Button
@@ -49,8 +49,8 @@
             android:text="@string/txtbtn4"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.581"
-            tools:layout_editor_absoluteX="36dp" />
+            app:layout_constraintVertical_bias="0.159"
+            tools:layout_editor_absoluteX="39dp" />
 
         <Button
             android:id="@+id/btn5"
@@ -59,7 +59,7 @@
             android:text="@string/txtbtn5"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.699"
+            app:layout_constraintVertical_bias="0.532"
             tools:layout_editor_absoluteX="34dp" />
 
         <androidx.constraintlayout.widget.Guideline
@@ -75,5 +75,49 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             app:layout_constraintGuide_begin="363dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="183dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toStartOf="@+id/btn1"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="159dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toStartOf="@+id/btn4"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="109dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="213dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="260dp" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="316dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </LinearLayout>

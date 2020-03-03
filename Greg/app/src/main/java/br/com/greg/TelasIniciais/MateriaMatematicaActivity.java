@@ -9,6 +9,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import br.com.greg.Materias.Afim.AfimAcitivity;
+import br.com.greg.Materias.ConjuntosAcityvity;
 import br.com.greg.R;
 
 public class MateriaMatematicaActivity extends AppCompatActivity {
@@ -18,7 +19,7 @@ public class MateriaMatematicaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_materias_math);
 
-        Button btn = (Button) findViewById(R.id.btn1);
+        Button btn = (Button) findViewById(R.id.btn1); // Função Afim
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -26,28 +27,28 @@ public class MateriaMatematicaActivity extends AppCompatActivity {
             }
         });
 
-       btn = (Button) findViewById(R.id.btn2);
+       btn = (Button) findViewById(R.id.btn2); // Função quadratico
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),m,Toast.LENGTH_SHORT).show();
             }
         });
-        btn = (Button) findViewById(R.id.btn3);
+        btn = (Button) findViewById(R.id.btn3); // Função exponencial
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),m,Toast.LENGTH_SHORT).show();
             }
         });
-        btn = (Button) findViewById(R.id.btn4);
+        btn = (Button) findViewById(R.id.btn4); // Conjuntos Numericos
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(),m,Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(getBaseContext(),ConjuntosAcityvity.class));
             }
         });
-        btn = (Button) findViewById(R.id.btn5);
+        btn = (Button) findViewById(R.id.btn5); // Ainda ñ sei
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
