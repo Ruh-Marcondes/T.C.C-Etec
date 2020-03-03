@@ -29,6 +29,9 @@
             android:label=" ">
 
         </activity>
+        <activity android:name=".Materias.ConjuntosAcityvity">
+            
+        </activity>
     </application>
 
 </manifest>
