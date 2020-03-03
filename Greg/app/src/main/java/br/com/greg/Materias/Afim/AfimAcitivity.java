@@ -25,7 +25,7 @@ public class AfimAcitivity  extends AppCompatActivity {
             public void onClick(View v) {
 
                 if (click == 0) {
-                    txt.setText("A função afim, também chamada de função do 1º grau,  é uma função f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais. ");
+                    txt.setText("A função afim, também chamada de função polinomial do 1º grau,  é uma função f : ℝ→ℝ, definida como f(x) = ax + b, sendo a e b números reais. ");
                     click = 1;
                 } else {
                     click = 0;

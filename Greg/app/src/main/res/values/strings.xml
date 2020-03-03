@@ -34,4 +34,12 @@
     <string name="btnfisc3"></string>
     <string name="btnfisc4"></string>
     <string name="btnfisc5"></string>
+
+    // Conjuntos numericos
+        <string name="conjuntonatural">Qualquer numero que resulte de uma contagem é chamado de *Número Natural*</string>
+        <string name="conjuntonatural_2"></string>
+        <string name="conjuntointerio">""</string>
+        <string name="conjuntoracional">""</string>
+        <string name="conjuntoirracional">""</string>
+        <string name="conjuntoreal">""</string>
 </resources>
