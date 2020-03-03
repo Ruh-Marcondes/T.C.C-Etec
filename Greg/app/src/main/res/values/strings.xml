@@ -37,7 +37,8 @@
 
     // Conjuntos numericos
         <string name="conjuntonatural">Qualquer numero que resulte de uma contagem é chamado de *Número Natural*</string>
-        <string name="conjuntonatural_2"></string>
+        <string name="conjuntonatural_2">Exemplo    N = {0,1,2,3,4,5,6,....,n,...}</string>
+        <string name="conjuntonatural_3">N* = {1,2,3,4,5,6,....,n,...} - Conjunto dos numeros naturais não nulos</string>
         <string name="conjuntointerio">""</string>
         <string name="conjuntoracional">""</string>
         <string name="conjuntoirracional">""</string>

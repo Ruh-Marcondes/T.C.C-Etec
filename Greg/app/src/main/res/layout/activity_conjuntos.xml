@@ -12,23 +12,23 @@
             android:id="@+id/numerosnaturais"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=""
+            android:text="@string/conjuntonatural"
             tools:layout_editor_absoluteX="148dp"
             tools:layout_editor_absoluteY="52dp" />
 
         <TextView
-            android:id="@+id/numerosinteiros"
+            android:id="@+id/natual"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView"
+            android:text="@string/conjuntonatural_2"
             tools:layout_editor_absoluteX="153dp"
             tools:layout_editor_absoluteY="93dp" />
 
         <TextView
-            android:id="@+id/numerosracionais"
+            android:id="@+id/natual_2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView"
+            android:text="@string/conjuntonatural_3"
             tools:layout_editor_absoluteX="153dp"
             tools:layout_editor_absoluteY="133dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
