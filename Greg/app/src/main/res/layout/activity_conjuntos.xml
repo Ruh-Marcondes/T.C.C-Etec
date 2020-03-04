@@ -11,8 +11,8 @@
 
         <TextView
             android:id="@+id/numerosnaturais"
-            android:layout_width="361dp"
-            android:layout_height="34dp"
+            android:layout_width="317dp"
+            android:layout_height="36dp"
             android:text="@string/conjuntonatural"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -27,17 +27,33 @@
             android:text="@string/conjuntonatural_2"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.122"
+            app:layout_constraintHorizontal_bias="0.23"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.212" />
+            app:layout_constraintVertical_bias="0.239" />
 
-        <Space
+        <CheckedTextView
+            android:id="@+id/checkedTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:layout_constraintBottom_toTopOf="@+id/natual"
-            app:layout_constraintTop_toBottomOf="@+id/numerosnaturais"
-            tools:layout_editor_absoluteX="82dp" />
+            android:text="Conjuntos Numericos Naturais (N)"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.08" />
 
+
+        <TextView
+            android:id="@+id/natual3"
+            android:layout_width="362dp"
+            android:layout_height="47dp"
+            android:text="@string/conjuntonatural_3"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.959"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.302" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </LinearLayout>
