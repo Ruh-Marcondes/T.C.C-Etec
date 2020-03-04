@@ -62,9 +62,10 @@
             android:layout_height="45dp"
             android:text="@string/txtbtn5"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.532"
-            tools:layout_editor_absoluteX="34dp" />
+            app:layout_constraintVertical_bias="0.532" />
 
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/guideline"
@@ -119,6 +120,7 @@
             tools:layout_editor_absoluteY="260dp" />
 
         <Space
+            android:id="@+id/space2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toStartOf="@+id/guideline"
