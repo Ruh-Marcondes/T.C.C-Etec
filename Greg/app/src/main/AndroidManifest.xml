@@ -24,6 +24,8 @@
         <activity android:name=".Materias.Afim.AfimAcitivity"
                   android:label="@string/paginaafim">
 
+
+
         </activity>
         <activity android:name=".TelasIniciais.MateriaFisicaActivity"
             android:label=" ">

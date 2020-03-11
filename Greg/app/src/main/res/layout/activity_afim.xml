@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/essa">
 
-    <Button
-        android:id="@+id/btn6"
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/btnaf" />
+        android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/definicao"
-        android:layout_width="350dp"
-        android:layout_height="wrap_content"
-        android:text="@string/definiçãoaffim1" />
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnaf"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.023"
+            tools:layout_editor_absoluteX="0dp" />
 
+        <TextView
+            android:id="@+id/definicao"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:text="@string/definiçãoaffim1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.262"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/btn6"
+            app:layout_constraintVertical_bias="0.085"
+            android:textColor="@color/TextAdim"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
 </LinearLayout>
