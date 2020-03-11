@@ -21,12 +21,10 @@
             android:label=" ">
         </activity>
 
-        <activity android:name=".Materias.Afim.AfimAcitivity"
+        <activity android:name=".Materias.Funções.AfimAcitivity"
                   android:label="@string/paginaafim">
-
-
-
         </activity>
+
         <activity android:name=".TelasIniciais.MateriaFisicaActivity"
             android:label=" ">
 

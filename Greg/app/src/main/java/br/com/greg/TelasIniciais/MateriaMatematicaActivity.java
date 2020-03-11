@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import br.com.greg.Materias.Afim.AfimAcitivity;
+import br.com.greg.Materias.Funções.AfimAcitivity;
 import br.com.greg.Materias.ConjuntosAcityvity;
 import br.com.greg.R;
 
