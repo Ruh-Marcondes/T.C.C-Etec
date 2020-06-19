@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: 674c98326c966404d8c3b2748a5b2796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1166021100187737179
+    second: Arbustos_RPG-removebg-preview_0
+  - first:
+      213: 418970837760251528
+    second: Arbustos_RPG-removebg-preview_1
+  - first:
+      213: 3229675124258457941
+    second: Arbustos_RPG-removebg-preview_2
+  - first:
+      213: -6554210121186479314
+    second: Arbustos_RPG-removebg-preview_3
+  - first:
+      213: -6061764818949397060
+    second: Arbustos_RPG-removebg-preview_4
+  - first:
+      213: -3933562143850132950
+    second: Arbustos_RPG-removebg-preview_5
+  - first:
+      213: -7017748844766332481
+    second: Arbustos_RPG-removebg-preview_6
+  - first:
+      213: 1049743537147221604
+    second: Arbustos_RPG-removebg-preview_7
+  - first:
+      213: -2467203399521769576
+    second: Arbustos_RPG-removebg-preview_8
+  - first:
+      213: -7118004707631627562
+    second: Arbustos_RPG-removebg-preview_9
+  - first:
+      213: -462833290041658040
+    second: Arbustos_RPG-removebg-preview_10
+  - first:
+      213: -4566222098622857126
+    second: Arbustos_RPG-removebg-preview_11
+  - first:
+      213: 7405096779203993732
+    second: Arbustos_RPG-removebg-preview_12
+  - first:
+      213: 986410655202895917
+    second: Arbustos_RPG-removebg-preview_13
+  - first:
+      213: -347994887720647817
+    second: Arbustos_RPG-removebg-preview_14
+  - first:
+      213: 3127552342164330011
+    second: Arbustos_RPG-removebg-preview_15
+  - first:
+      213: 7823165381203570515
+    second: Arbustos_RPG-removebg-preview_16
+  - first:
+      213: 6722614490100897452
+    second: Arbustos_RPG-removebg-preview_17
+  - first:
+      213: 7654472062840017229
+    second: Arbustos_RPG-removebg-preview_18
+  - first:
+      213: -8837388186152256722
+    second: Arbustos_RPG-removebg-preview_19
+  - first:
+      213: -1651651777875559220
+    second: Arbustos_RPG-removebg-preview_20
+  - first:
+      213: 2906251622342258364
+    second: Arbustos_RPG-removebg-preview_21
+  - first:
+      213: 260054319296185776
+    second: Arbustos_RPG-removebg-preview_22
+  - first:
+      213: 2780991297287355647
+    second: Arbustos_RPG-removebg-preview_23
+  - first:
+      213: 6890188432646572096
+    second: Arbustos_RPG-removebg-preview_24
+  - first:
+      213: 1983540525391478527
+    second: Arbustos_RPG-removebg-preview_25
+  - first:
+      213: 3453976637606402357
+    second: Arbustos_RPG-removebg-preview_26
+  - first:
+      213: -9212874981245651856
+    second: Arbustos_RPG-removebg-preview_27
+  - first:
+      213: -2974934645640116021
+    second: Arbustos_RPG-removebg-preview_28
+  - first:
+      213: 7907751280031940701
+    second: Arbustos_RPG-removebg-preview_29
+  - first:
+      213: -8086843359137412475
+    second: Arbustos_RPG-removebg-preview_30
+  - first:
+      213: -671062645195317302
+    second: Arbustos_RPG-removebg-preview_31
+  - first:
+      213: -2335332751525321516
+    second: Arbustos_RPG-removebg-preview_32
+  - first:
+      213: 4370850310793416520
+    second: Arbustos_RPG-removebg-preview_33
+  - first:
+      213: 4358517099797756312
+    second: Arbustos_RPG-removebg-preview_34
+  - first:
+      213: -4418513844462428847
+    second: Arbustos_RPG-removebg-preview_35
+  - first:
+      213: -3116516766587266175
+    second: Arbustos_RPG-removebg-preview_36
+  - first:
+      213: -3331978610533564086
+    second: Arbustos_RPG-removebg-preview_37
+  - first:
+      213: -6865802404412692411
+    second: Arbustos_RPG-removebg-preview_38
+  - first:
+      213: 3749635769369083587
+    second: Arbustos_RPG-removebg-preview_39
+  - first:
+      213: 5474364885603708050
+    second: Arbustos_RPG-removebg-preview_40
+  - first:
+      213: 9211427075240713250
+    second: Arbustos_RPG-removebg-preview_41
+  - first:
+      213: -3140856252074334856
+    second: Arbustos_RPG-removebg-preview_42
+  - first:
+      213: -4237354972616075913
+    second: Arbustos_RPG-removebg-preview_43
+  - first:
+      213: 8628277152002159136
+    second: Arbustos_RPG-removebg-preview_44
+  - first:
+      213: -475771785426881680
+    second: Arbustos_RPG-removebg-preview_45
+  - first:
+      213: 8721787882240383317
+    second: Arbustos_RPG-removebg-preview_46
+  - first:
+      213: -1003284496556606312
+    second: Arbustos_RPG-removebg-preview_47
+  - first:
+      213: 4736628644831511691
+    second: Arbustos_RPG-removebg-preview_48
+  - first:
+      213: 9065571639111978189
+    second: Arbustos_RPG-removebg-preview_49
+  - first:
+      213: 3515526454684693139
+    second: Arbustos_RPG-removebg-preview_50
+  - first:
+      213: 1164060419743607362
+    second: Arbustos_RPG-removebg-preview_51
+  - first:
+      213: 2859023689102028488
+    second: Arbustos_RPG-removebg-preview_52
+  - first:
+      213: -5483879184442908803
+    second: Arbustos_RPG-removebg-preview_53
+  - first:
+      213: -6502232026469180418
+    second: Arbustos_RPG-removebg-preview_54
+  - first:
+      213: -8302379585760943153
+    second: Arbustos_RPG-removebg-preview_55
+  - first:
+      213: -1061137503352408434
+    second: Arbustos_RPG-removebg-preview_56
+  - first:
+      213: 4949458679686760866
+    second: Arbustos_RPG-removebg-preview_57
+  - first:
+      213: -43943782574297265
+    second: Arbustos_RPG-removebg-preview_58
+  - first:
+      213: 6292505797841184427
+    second: Arbustos_RPG-removebg-preview_59
+  - first:
+      213: 2165718852603897813
+    second: Arbustos_RPG-removebg-preview_60
+  - first:
+      213: 3863821881959504349
+    second: Arbustos_RPG-removebg-preview_61
+  - first:
+      213: 3025170339936619101
+    second: Arbustos_RPG-removebg-preview_62
+  - first:
+      213: -2026568894653693928
+    second: Arbustos_RPG-removebg-preview_63
+  - first:
+      213: -7675905331503504176
+    second: Arbustos_RPG-removebg-preview_64
+  - first:
+      213: -1440435001604795765
+    second: Arbustos_RPG-removebg-preview_65
+  - first:
+      213: 2601885839147889336
+    second: Arbustos_RPG-removebg-preview_66
+  - first:
+      213: 2908347434961876918
+    second: Arbustos_RPG-removebg-preview_67
+  - first:
+      213: 5814503322887743593
+    second: Arbustos_RPG-removebg-preview_68
+  - first:
+      213: 8093306988867618179
+    second: Arbustos_RPG-removebg-preview_69
+  - first:
+      213: -2400644922109022209
+    second: Arbustos_RPG-removebg-preview_70
+  - first:
+      213: 9040743318846578121
+    second: Arbustos_RPG-removebg-preview_71
+  - first:
+      213: -2361148359396112805
+    second: Arbustos_RPG-removebg-preview_72
+  - first:
+      213: 1871559514176140357
+    second: Arbustos_RPG-removebg-preview_73
+  - first:
+      213: -2172030298945384666
+    second: Arbustos_RPG-removebg-preview_74
+  - first:
+      213: -8348689047766918705
+    second: Arbustos_RPG-removebg-preview_75
+  - first:
+      213: -1133279429050731308
+    second: Arbustos_RPG-removebg-preview_76
+  - first:
+      213: -8467023660137479726
+    second: Arbustos_RPG-removebg-preview_77
+  - first:
+      213: -5872960099763962478
+    second: Arbustos_RPG-removebg-preview_78
+  - first:
+      213: -2325569514925626986
+    second: Arbustos_RPG-removebg-preview_79
+  - first:
+      213: 6590566364537126185
+    second: Arbustos_RPG-removebg-preview_80
+  - first:
+      213: 2506417709740435225
+    second: Arbustos_RPG-removebg-preview_81
+  - first:
+      213: -5169268101966065824
+    second: Arbustos_RPG-removebg-preview_82
+  - first:
+      213: -1003616053747247940
+    second: Arbustos_RPG-removebg-preview_83
+  - first:
+      213: -8775359158662368902
+    second: Arbustos_RPG-removebg-preview_84
+  - first:
+      213: 8295056226898802963
+    second: Arbustos_RPG-removebg-preview_85
+  - first:
+      213: 2604628688553766685
+    second: Arbustos_RPG-removebg-preview_86
+  - first:
+      213: 7733097622658768657
+    second: Arbustos_RPG-removebg-preview_87
+  - first:
+      213: -7237365591279618017
+    second: Arbustos_RPG-removebg-preview_88
+  - first:
+      213: -3143849808165627899
+    second: Arbustos_RPG-removebg-preview_89
+  - first:
+      213: 7684527670193338384
+    second: Arbustos_RPG-removebg-preview_90
+  - first:
+      213: -6418273836315728180
+    second: Arbustos_RPG-removebg-preview_91
+  - first:
+      213: 3126450671270412564
+    second: Arbustos_RPG-removebg-preview_92
+  - first:
+      213: -9187238735634602054
+    second: Arbustos_RPG-removebg-preview_93
+  - first:
+      213: -7248769166993663997
+    second: Arbustos_RPG-removebg-preview_94
+  - first:
+      213: 2215118340201830155
+    second: Arbustos_RPG-removebg-preview_95
+  - first:
+      213: -1329755459030516424
+    second: Arbustos_RPG-removebg-preview_96
+  - first:
+      213: 1017219621830417370
+    second: Arbustos_RPG-removebg-preview_97
+  - first:
+      213: 5261024119664910746
+    second: Arbustos_RPG-removebg-preview_98
+  - first:
+      213: -3056065381004421275
+    second: Arbustos_RPG-removebg-preview_99
+  - first:
+      213: -6284048059516029528
+    second: Arbustos_RPG-removebg-preview_100
+  - first:
+      213: 6061952987009500009
+    second: Arbustos_RPG-removebg-preview_101
+  - first:
+      213: -6629540185934744986
+    second: Arbustos_RPG-removebg-preview_102
+  - first:
+      213: -6722753586908217385
+    second: Arbustos_RPG-removebg-preview_103
+  - first:
+      213: -2463828701009175866
+    second: Arbustos_RPG-removebg-preview_104
+  - first:
+      213: -8800031768425934115
+    second: Arbustos_RPG-removebg-preview_105
+  - first:
+      213: -4388653512640809373
+    second: Arbustos_RPG-removebg-preview_106
+  - first:
+      213: -2269238394336719825
+    second: Arbustos_RPG-removebg-preview_107
+  - first:
+      213: 168622635451095218
+    second: Arbustos_RPG-removebg-preview_108
+  - first:
+      213: 5791788900157133962
+    second: Arbustos_RPG-removebg-preview_109
+  - first:
+      213: 6575103865813703381
+    second: Arbustos_RPG-removebg-preview_110
+  - first:
+      213: -4362872742365554312
+    second: Arbustos_RPG-removebg-preview_111
+  - first:
+      213: 5747467970480056031
+    second: Arbustos_RPG-removebg-preview_112
+  - first:
+      213: -3744885638093006906
+    second: Arbustos_RPG-removebg-preview_113
+  - first:
+      213: -5794558268313644209
+    second: Arbustos_RPG-removebg-preview_114
+  - first:
+      213: -2677755302337762185
+    second: Arbustos_RPG-removebg-preview_115
+  - first:
+      213: -8027752323595194947
+    second: Arbustos_RPG-removebg-preview_116
+  - first:
+      213: 5603724639198702375
+    second: Arbustos_RPG-removebg-preview_117
+  - first:
+      213: -3991712947201414841
+    second: Arbustos_RPG-removebg-preview_118
+  - first:
+      213: -4945410704955140953
+    second: Arbustos_RPG-removebg-preview_119
+  - first:
+      213: -1394347599048065016
+    second: Arbustos_RPG-removebg-preview_120
+  - first:
+      213: -3100144612735183175
+    second: Arbustos_RPG-removebg-preview_121
+  - first:
+      213: 4112616219392590260
+    second: Arbustos_RPG-removebg-preview_122
+  - first:
+      213: 4795013882118128130
+    second: Arbustos_RPG-removebg-preview_123
+  - first:
+      213: -2089847175993761888
+    second: Arbustos_RPG-removebg-preview_124
+  - first:
+      213: 7709660045153504410
+    second: Arbustos_RPG-removebg-preview_125
+  - first:
+      213: -7206108412766993313
+    second: Arbustos_RPG-removebg-preview_126
+  - first:
+      213: -3203591169195184681
+    second: Arbustos_RPG-removebg-preview_127
+  - first:
+      213: 3466481155990746600
+    second: Arbustos_RPG-removebg-preview_128
+  - first:
+      213: -4138742458232118622
+    second: Arbustos_RPG-removebg-preview_129
+  - first:
+      213: 7927672099194691957
+    second: Arbustos_RPG-removebg-preview_130
+  - first:
+      213: 1422786544369173147
+    second: Arbustos_RPG-removebg-preview_131
+  - first:
+      213: -5907211653825890492
+    second: Arbustos_RPG-removebg-preview_132
+  - first:
+      213: 3786368387156236239
+    second: Arbustos_RPG-removebg-preview_133
+  - first:
+      213: 2996721085029143122
+    second: Arbustos_RPG-removebg-preview_134
+  - first:
+      213: -5521245701223713836
+    second: Arbustos_RPG-removebg-preview_135
+  - first:
+      213: -7777980499362724547
+    second: Arbustos_RPG-removebg-preview_136
+  - first:
+      213: -8699852444030875700
+    second: Arbustos_RPG-removebg-preview_137
+  - first:
+      213: -1436313573799241954
+    second: Arbustos_RPG-removebg-preview_138
+  - first:
+      213: 1787568013667316799
+    second: Arbustos_RPG-removebg-preview_139
+  - first:
+      213: 4236378965368167042
+    second: Arbustos_RPG-removebg-preview_140
+  - first:
+      213: -832840832214001219
+    second: Arbustos_RPG-removebg-preview_141
+  - first:
+      213: 2513138487896513040
+    second: Arbustos_RPG-removebg-preview_142
+  - first:
+      213: -193827579981067027
+    second: Arbustos_RPG-removebg-preview_143
+  - first:
+      213: -6007775743623937893
+    second: Arbustos_RPG-removebg-preview_144
+  - first:
+      213: -1315824273089091509
+    second: Arbustos_RPG-removebg-preview_145
+  - first:
+      213: 7663369002516350919
+    second: Arbustos_RPG-removebg-preview_146
+  - first:
+      213: 6560574640515432735
+    second: Arbustos_RPG-removebg-preview_147
+  - first:
+      213: 8360419978585421344
+    second: Arbustos_RPG-removebg-preview_148
+  - first:
+      213: 4157124235403368615
+    second: Arbustos_RPG-removebg-preview_149
+  - first:
+      213: 2869812036900679266
+    second: Arbustos_RPG-removebg-preview_150
+  - first:
+      213: 2388839740093090278
+    second: Arbustos_RPG-removebg-preview_151
+  - first:
+      213: -4117933851563617105
+    second: Arbustos_RPG-removebg-preview_152
+  - first:
+      213: 4267041260915291992
+    second: Arbustos_RPG-removebg-preview_153
+  - first:
+      213: -4112218717481847944
+    second: Arbustos_RPG-removebg-preview_154
+  - first:
+      213: 7302664134378849987
+    second: Arbustos_RPG-removebg-preview_155
+  - first:
+      213: 8823371359408945970
+    second: Arbustos_RPG-removebg-preview_156
+  - first:
+      213: -3233234285532741184
+    second: Arbustos_RPG-removebg-preview_157
+  - first:
+      213: 4846836089481917637
+    second: Arbustos_RPG-removebg-preview_158
+  - first:
+      213: -4569696019831643970
+    second: Arbustos_RPG-removebg-preview_159
+  - first:
+      213: 6944994885343197740
+    second: Arbustos_RPG-removebg-preview_160
+  - first:
+      213: -2077395871786788160
+    second: Arbustos_RPG-removebg-preview_161
+  - first:
+      213: -8676308972766290152
+    second: Arbustos_RPG-removebg-preview_162
+  - first:
+      213: -3079379542669993808
+    second: Arbustos_RPG-removebg-preview_163
+  - first:
+      213: 9176643762447209667
+    second: Arbustos_RPG-removebg-preview_164
+  - first:
+      213: -3223469611702524594
+    second: Arbustos_RPG-removebg-preview_165
+  - first:
+      213: 1876358981797370981
+    second: Arbustos_RPG-removebg-preview_166
+  - first:
+      213: 1824091098805359497
+    second: Arbustos_RPG-removebg-preview_167
+  - first:
+      213: 1753064554715921984
+    second: Arbustos_RPG-removebg-preview_168
+  - first:
+      213: 1640975505433450772
+    second: Arbustos_RPG-removebg-preview_169
+  - first:
+      213: -2416198878313940932
+    second: Arbustos_RPG-removebg-preview_170
+  - first:
+      213: 4168958540110660279
+    second: Arbustos_RPG-removebg-preview_171
+  - first:
+      213: -2335980435730032311
+    second: Arbustos_RPG-removebg-preview_172
+  - first:
+      213: -4378747899586604009
+    second: Arbustos_RPG-removebg-preview_173
+  - first:
+      213: -2052517134743370391
+    second: Arbustos_RPG-removebg-preview_174
+  - first:
+      213: -3435214191020822527
+    second: Arbustos_RPG-removebg-preview_175
+  - first:
+      213: 4425997148251416567
+    second: Arbustos_RPG-removebg-preview_176
+  - first:
+      213: -896098365713765418
+    second: Arbustos_RPG-removebg-preview_177
+  - first:
+      213: 7110235329436459878
+    second: Arbustos_RPG-removebg-preview_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cdc45430a8e2010800000000000000
+      internalID: 1166021100187737179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88692f3d1cb70d500800000000000000
+      internalID: 418970837760251528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594759f96c12dc20800000000000000
+      internalID: 3229675124258457941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f867de94ca05a0800000000000000
+      internalID: -6554210121186479314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5af86830940eba0800000000000000
+      internalID: -6061764818949397060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a83e1321e2969c0800000000000000
+      internalID: -3933562143850132950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb97bc87b92fb9e90800000000000000
+      internalID: -7017748844766332481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661cec6f20719e00800000000000000
+      internalID: 1049743537147221604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976ed6749bb2cdd0800000000000000
+      internalID: -2467203399521769576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d20f046e64c73d90800000000000000
+      internalID: -7118004707631627562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84577dc239fa399f0800000000000000
+      internalID: -462833290041658040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50cb06b13581a0c0800000000000000
+      internalID: -4566222098622857126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e7db694034c660800000000000000
+      internalID: 7405096779203993732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286702c34f60bd00800000000000000
+      internalID: 986410655202895917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77342cd4e7cab2bf0800000000000000
+      internalID: -347994887720647817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165523e84c476b20800000000000000
+      internalID: 3127552342164330011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fa5cd1777719c60800000000000000
+      internalID: 7823165381203570515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69b54c2468b4d50800000000000000
+      internalID: 6722614490100897452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411bb839c52a3a60800000000000000
+      internalID: 7654472062840017229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b3926644a4b5580800000000000000
+      internalID: -8837388186152256722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb51775772419e0800000000000000
+      internalID: -1651651777875559220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeec99d374155820800000000000000
+      internalID: 2906251622342258364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b584fb8606eb9300800000000000000
+      internalID: 260054319296185776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf34eb9d0189620800000000000000
+      internalID: 2780991297287355647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048876bafddde9f50800000000000000
+      internalID: 6890188432646572096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefc8d3993f68b10800000000000000
+      internalID: 1983540525391478527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5391703b37dfeef20800000000000000
+      internalID: 3453976637606402357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f4c6340b452080800000000000000
+      internalID: -9212874981245651856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84e90a3b8e6b6d0800000000000000
+      internalID: -2974934645640116021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c17264e9fdbd60800000000000000
+      internalID: 7907751280031940701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a43609fc2c5cf80800000000000000
+      internalID: -8086843359137412475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf59136418efa6f0800000000000000
+      internalID: -671062645195317302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d46ff05c3b379fd0800000000000000
+      internalID: -2335332751525321516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4f3d233168ac30800000000000000
+      internalID: 4370850310793416520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89939e8b5309c7c30800000000000000
+      internalID: 4358517099797756312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ddba991194ea2c0800000000000000
+      internalID: -4418513844462428847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b54074388efb4d0800000000000000
+      internalID: -3116516766587266175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4182f77b1f62c1d0800000000000000
+      internalID: -3331978610533564086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54865faf615c7b0a0800000000000000
+      internalID: -6865802404412692411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb756add1690430800000000000000
+      internalID: 3749635769369083587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce749ebd9d8fb40800000000000000
+      internalID: 5474364885603708050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5326ee1095df70800000000000000
+      internalID: 9211427075240713250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756b8431ef6964d0800000000000000
+      internalID: -3140856252074334856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775dbf55a14e135c0800000000000000
+      internalID: -4237354972616075913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02235bcea5ccdb770800000000000000
+      internalID: 8628277152002159136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbustos_RPG-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733a77f418b569f0800000000000000
+      internalID: -475771785426881680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

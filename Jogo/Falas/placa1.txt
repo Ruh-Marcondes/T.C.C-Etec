@@ -1,0 +1,9 @@
+Escolha sabiamenmente:
+A três portas nessa sala totas levam a caminhos diferentes:
+    Duas delas faram voçê morrer instantaniamente a outra te dara a saida
+    o número da sala correta.
+    "Tenho primos, tenho multiplos quase ninguém me divide, quem sou eu? "
+    p1 - num 24
+    p2: 13
+    p3: 55
+    R:13

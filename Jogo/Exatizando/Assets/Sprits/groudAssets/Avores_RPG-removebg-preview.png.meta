@@ -1,0 +1,5108 @@
+fileFormatVersion: 2
+guid: f6c5f1c500b6a7e45baef6aba27760fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1052296412460496362
+    second: Avores_RPG-removebg-preview_0
+  - first:
+      213: -2041167231623369586
+    second: Avores_RPG-removebg-preview_1
+  - first:
+      213: 4406208876373088963
+    second: Avores_RPG-removebg-preview_2
+  - first:
+      213: 3057123735987350532
+    second: Avores_RPG-removebg-preview_3
+  - first:
+      213: 241154435857798165
+    second: Avores_RPG-removebg-preview_4
+  - first:
+      213: 3522107299510343403
+    second: Avores_RPG-removebg-preview_5
+  - first:
+      213: -2547017173418046095
+    second: Avores_RPG-removebg-preview_6
+  - first:
+      213: 895587647415297183
+    second: Avores_RPG-removebg-preview_7
+  - first:
+      213: -217569825476805743
+    second: Avores_RPG-removebg-preview_8
+  - first:
+      213: 6305011402478237711
+    second: Avores_RPG-removebg-preview_9
+  - first:
+      213: 1973248084626549967
+    second: Avores_RPG-removebg-preview_10
+  - first:
+      213: 5100799549421396048
+    second: Avores_RPG-removebg-preview_11
+  - first:
+      213: -366409352595912488
+    second: Avores_RPG-removebg-preview_12
+  - first:
+      213: 5111787966140934718
+    second: Avores_RPG-removebg-preview_13
+  - first:
+      213: 1861010462991625351
+    second: Avores_RPG-removebg-preview_14
+  - first:
+      213: -141127535282581473
+    second: Avores_RPG-removebg-preview_15
+  - first:
+      213: 7751999057669599190
+    second: Avores_RPG-removebg-preview_16
+  - first:
+      213: 2518023257849005047
+    second: Avores_RPG-removebg-preview_17
+  - first:
+      213: -9097758496613888657
+    second: Avores_RPG-removebg-preview_18
+  - first:
+      213: -8577581919546019855
+    second: Avores_RPG-removebg-preview_19
+  - first:
+      213: -9068487603841228865
+    second: Avores_RPG-removebg-preview_20
+  - first:
+      213: -7494559837267188081
+    second: Avores_RPG-removebg-preview_21
+  - first:
+      213: -6561759661374354762
+    second: Avores_RPG-removebg-preview_22
+  - first:
+      213: -6262851690587148585
+    second: Avores_RPG-removebg-preview_23
+  - first:
+      213: 8929568048288961915
+    second: Avores_RPG-removebg-preview_24
+  - first:
+      213: -3315701904845502985
+    second: Avores_RPG-removebg-preview_25
+  - first:
+      213: 6901192479642888544
+    second: Avores_RPG-removebg-preview_26
+  - first:
+      213: -8995172457123700837
+    second: Avores_RPG-removebg-preview_27
+  - first:
+      213: 3800092503885218055
+    second: Avores_RPG-removebg-preview_28
+  - first:
+      213: -4133181665420535040
+    second: Avores_RPG-removebg-preview_29
+  - first:
+      213: -3529219970460398076
+    second: Avores_RPG-removebg-preview_30
+  - first:
+      213: 2362890875651455191
+    second: Avores_RPG-removebg-preview_31
+  - first:
+      213: 8085950000156760336
+    second: Avores_RPG-removebg-preview_32
+  - first:
+      213: -918952794983600588
+    second: Avores_RPG-removebg-preview_33
+  - first:
+      213: 2417351911126385400
+    second: Avores_RPG-removebg-preview_34
+  - first:
+      213: -5929082770765462383
+    second: Avores_RPG-removebg-preview_35
+  - first:
+      213: 8327957210124532457
+    second: Avores_RPG-removebg-preview_36
+  - first:
+      213: 8744094473583269906
+    second: Avores_RPG-removebg-preview_37
+  - first:
+      213: 8806419130847487605
+    second: Avores_RPG-removebg-preview_38
+  - first:
+      213: -4318087444572219135
+    second: Avores_RPG-removebg-preview_39
+  - first:
+      213: -8494469341890034522
+    second: Avores_RPG-removebg-preview_40
+  - first:
+      213: 1056382451466290050
+    second: Avores_RPG-removebg-preview_41
+  - first:
+      213: -5903244830259858991
+    second: Avores_RPG-removebg-preview_42
+  - first:
+      213: -4783749434021654698
+    second: Avores_RPG-removebg-preview_43
+  - first:
+      213: -6764451995464811552
+    second: Avores_RPG-removebg-preview_44
+  - first:
+      213: 443715645094903627
+    second: Avores_RPG-removebg-preview_45
+  - first:
+      213: -8931257368967715494
+    second: Avores_RPG-removebg-preview_46
+  - first:
+      213: 5227124037321402350
+    second: Avores_RPG-removebg-preview_47
+  - first:
+      213: -4334763076198855611
+    second: Avores_RPG-removebg-preview_48
+  - first:
+      213: -4557494177885802308
+    second: Avores_RPG-removebg-preview_49
+  - first:
+      213: -1009770814850611471
+    second: Avores_RPG-removebg-preview_50
+  - first:
+      213: -2013590141042920793
+    second: Avores_RPG-removebg-preview_51
+  - first:
+      213: 8782182649905442242
+    second: Avores_RPG-removebg-preview_52
+  - first:
+      213: -6207528779262197491
+    second: Avores_RPG-removebg-preview_53
+  - first:
+      213: -1152603931633964163
+    second: Avores_RPG-removebg-preview_54
+  - first:
+      213: -7833310314298458648
+    second: Avores_RPG-removebg-preview_55
+  - first:
+      213: 6251702680498045466
+    second: Avores_RPG-removebg-preview_56
+  - first:
+      213: -3849909055091635633
+    second: Avores_RPG-removebg-preview_57
+  - first:
+      213: -9071094595308038125
+    second: Avores_RPG-removebg-preview_58
+  - first:
+      213: 6101666959274895271
+    second: Avores_RPG-removebg-preview_59
+  - first:
+      213: 6633147226902341267
+    second: Avores_RPG-removebg-preview_60
+  - first:
+      213: 2603762205372971469
+    second: Avores_RPG-removebg-preview_61
+  - first:
+      213: -3627977227569342831
+    second: Avores_RPG-removebg-preview_62
+  - first:
+      213: 5573728888784968743
+    second: Avores_RPG-removebg-preview_63
+  - first:
+      213: 2351342332676738650
+    second: Avores_RPG-removebg-preview_64
+  - first:
+      213: 8572865999468552606
+    second: Avores_RPG-removebg-preview_65
+  - first:
+      213: -763348708976403305
+    second: Avores_RPG-removebg-preview_66
+  - first:
+      213: 954791630636287437
+    second: Avores_RPG-removebg-preview_67
+  - first:
+      213: 5884566780603172087
+    second: Avores_RPG-removebg-preview_68
+  - first:
+      213: -2067807436728908563
+    second: Avores_RPG-removebg-preview_69
+  - first:
+      213: 3176445698339303118
+    second: Avores_RPG-removebg-preview_70
+  - first:
+      213: 4508519042529712188
+    second: Avores_RPG-removebg-preview_71
+  - first:
+      213: -8395525517865505521
+    second: Avores_RPG-removebg-preview_72
+  - first:
+      213: 3890062318611483617
+    second: Avores_RPG-removebg-preview_73
+  - first:
+      213: 706915255426110769
+    second: Avores_RPG-removebg-preview_74
+  - first:
+      213: -5177548162714572482
+    second: Avores_RPG-removebg-preview_75
+  - first:
+      213: 4747035852277148838
+    second: Avores_RPG-removebg-preview_76
+  - first:
+      213: 6489687568452142687
+    second: Avores_RPG-removebg-preview_77
+  - first:
+      213: 7308332225304378862
+    second: Avores_RPG-removebg-preview_78
+  - first:
+      213: 8690771024612198825
+    second: Avores_RPG-removebg-preview_79
+  - first:
+      213: -7445740345188950699
+    second: Avores_RPG-removebg-preview_80
+  - first:
+      213: 8067283959405870348
+    second: Avores_RPG-removebg-preview_81
+  - first:
+      213: 4462340822354989523
+    second: Avores_RPG-removebg-preview_82
+  - first:
+      213: -926653667790596706
+    second: Avores_RPG-removebg-preview_83
+  - first:
+      213: -9093027793526198668
+    second: Avores_RPG-removebg-preview_84
+  - first:
+      213: -7661095912999612748
+    second: Avores_RPG-removebg-preview_85
+  - first:
+      213: 2112080089677568818
+    second: Avores_RPG-removebg-preview_86
+  - first:
+      213: -8106038183543270197
+    second: Avores_RPG-removebg-preview_87
+  - first:
+      213: -4700559968204095579
+    second: Avores_RPG-removebg-preview_88
+  - first:
+      213: 1154202066111886711
+    second: Avores_RPG-removebg-preview_89
+  - first:
+      213: -944207630158274301
+    second: Avores_RPG-removebg-preview_90
+  - first:
+      213: 6341710118646842975
+    second: Avores_RPG-removebg-preview_91
+  - first:
+      213: 507806422802005214
+    second: Avores_RPG-removebg-preview_92
+  - first:
+      213: -4966731539012177462
+    second: Avores_RPG-removebg-preview_93
+  - first:
+      213: 4650328330778552595
+    second: Avores_RPG-removebg-preview_94
+  - first:
+      213: -1359002358264229400
+    second: Avores_RPG-removebg-preview_95
+  - first:
+      213: -8522586125143471818
+    second: Avores_RPG-removebg-preview_96
+  - first:
+      213: -2465522950023183265
+    second: Avores_RPG-removebg-preview_97
+  - first:
+      213: -8771984319922008698
+    second: Avores_RPG-removebg-preview_98
+  - first:
+      213: -2623783458511203756
+    second: Avores_RPG-removebg-preview_99
+  - first:
+      213: 6193718410194750383
+    second: Avores_RPG-removebg-preview_100
+  - first:
+      213: -4629530344818372669
+    second: Avores_RPG-removebg-preview_101
+  - first:
+      213: 1885834829247004642
+    second: Avores_RPG-removebg-preview_102
+  - first:
+      213: -2670483694793333111
+    second: Avores_RPG-removebg-preview_103
+  - first:
+      213: 1473727895882334361
+    second: Avores_RPG-removebg-preview_104
+  - first:
+      213: -3677419668466191089
+    second: Avores_RPG-removebg-preview_105
+  - first:
+      213: 8028977112125909507
+    second: Avores_RPG-removebg-preview_106
+  - first:
+      213: -3748165167323233188
+    second: Avores_RPG-removebg-preview_107
+  - first:
+      213: 1493198649304219666
+    second: Avores_RPG-removebg-preview_108
+  - first:
+      213: -5841320694148198830
+    second: Avores_RPG-removebg-preview_109
+  - first:
+      213: -316687377956129485
+    second: Avores_RPG-removebg-preview_110
+  - first:
+      213: -2607047491033792244
+    second: Avores_RPG-removebg-preview_111
+  - first:
+      213: -8830343565680337321
+    second: Avores_RPG-removebg-preview_112
+  - first:
+      213: -4714823461473762460
+    second: Avores_RPG-removebg-preview_113
+  - first:
+      213: 6690201359571886390
+    second: Avores_RPG-removebg-preview_114
+  - first:
+      213: -920538000761146358
+    second: Avores_RPG-removebg-preview_115
+  - first:
+      213: 240451645251481563
+    second: Avores_RPG-removebg-preview_116
+  - first:
+      213: 8423932958976276924
+    second: Avores_RPG-removebg-preview_117
+  - first:
+      213: -656529744511029630
+    second: Avores_RPG-removebg-preview_118
+  - first:
+      213: -4539845650098301402
+    second: Avores_RPG-removebg-preview_119
+  - first:
+      213: 1419983621523986896
+    second: Avores_RPG-removebg-preview_120
+  - first:
+      213: -3441524561962063784
+    second: Avores_RPG-removebg-preview_121
+  - first:
+      213: -189656181719617791
+    second: Avores_RPG-removebg-preview_122
+  - first:
+      213: -1469625651048551766
+    second: Avores_RPG-removebg-preview_123
+  - first:
+      213: 4444993503606874232
+    second: Avores_RPG-removebg-preview_124
+  - first:
+      213: 8581548797955360239
+    second: Avores_RPG-removebg-preview_125
+  - first:
+      213: 3384288886954709840
+    second: Avores_RPG-removebg-preview_126
+  - first:
+      213: -5494881764184867674
+    second: Avores_RPG-removebg-preview_127
+  - first:
+      213: -2818013042398724159
+    second: Avores_RPG-removebg-preview_128
+  - first:
+      213: 1298885460232054556
+    second: Avores_RPG-removebg-preview_129
+  - first:
+      213: 2072125002517770533
+    second: Avores_RPG-removebg-preview_130
+  - first:
+      213: -3757276225589664610
+    second: Avores_RPG-removebg-preview_131
+  - first:
+      213: 965337052831241470
+    second: Avores_RPG-removebg-preview_132
+  - first:
+      213: 1923900981368295022
+    second: Avores_RPG-removebg-preview_133
+  - first:
+      213: -2202399151892944503
+    second: Avores_RPG-removebg-preview_134
+  - first:
+      213: -8389213876526175344
+    second: Avores_RPG-removebg-preview_135
+  - first:
+      213: 7164056546972620166
+    second: Avores_RPG-removebg-preview_136
+  - first:
+      213: 3278111824608371737
+    second: Avores_RPG-removebg-preview_137
+  - first:
+      213: -4443808505611852788
+    second: Avores_RPG-removebg-preview_138
+  - first:
+      213: 449007305537878901
+    second: Avores_RPG-removebg-preview_139
+  - first:
+      213: 6337428283531417313
+    second: Avores_RPG-removebg-preview_140
+  - first:
+      213: -4792933123700479495
+    second: Avores_RPG-removebg-preview_141
+  - first:
+      213: -7907124646328145497
+    second: Avores_RPG-removebg-preview_142
+  - first:
+      213: -6518490298163789683
+    second: Avores_RPG-removebg-preview_143
+  - first:
+      213: 3328580871553366713
+    second: Avores_RPG-removebg-preview_144
+  - first:
+      213: 78761469912250976
+    second: Avores_RPG-removebg-preview_145
+  - first:
+      213: 771444806646666081
+    second: Avores_RPG-removebg-preview_146
+  - first:
+      213: 6707347072854619755
+    second: Avores_RPG-removebg-preview_147
+  - first:
+      213: -5776939073526123329
+    second: Avores_RPG-removebg-preview_148
+  - first:
+      213: 453162798705054117
+    second: Avores_RPG-removebg-preview_149
+  - first:
+      213: -2185133862770669476
+    second: Avores_RPG-removebg-preview_150
+  - first:
+      213: -3726204557358455317
+    second: Avores_RPG-removebg-preview_151
+  - first:
+      213: -6494729012012348805
+    second: Avores_RPG-removebg-preview_152
+  - first:
+      213: 220751743973316621
+    second: Avores_RPG-removebg-preview_153
+  - first:
+      213: -4130478011819059450
+    second: Avores_RPG-removebg-preview_154
+  - first:
+      213: -8030640431546638726
+    second: Avores_RPG-removebg-preview_155
+  - first:
+      213: 7540971187757913123
+    second: Avores_RPG-removebg-preview_156
+  - first:
+      213: -3282788868551272867
+    second: Avores_RPG-removebg-preview_157
+  - first:
+      213: -7162017091511426778
+    second: Avores_RPG-removebg-preview_158
+  - first:
+      213: 1688889006993076805
+    second: Avores_RPG-removebg-preview_159
+  - first:
+      213: -4101411666186691484
+    second: Avores_RPG-removebg-preview_160
+  - first:
+      213: -2340998690482852930
+    second: Avores_RPG-removebg-preview_161
+  - first:
+      213: -4203400360407275631
+    second: Avores_RPG-removebg-preview_162
+  - first:
+      213: -7977950593619011664
+    second: Avores_RPG-removebg-preview_163
+  - first:
+      213: 1661760954627404225
+    second: Avores_RPG-removebg-preview_164
+  - first:
+      213: 4798856138506061007
+    second: Avores_RPG-removebg-preview_165
+  - first:
+      213: 8936234710608958609
+    second: Avores_RPG-removebg-preview_166
+  - first:
+      213: -4051560307596163469
+    second: Avores_RPG-removebg-preview_167
+  - first:
+      213: 3062414590486104729
+    second: Avores_RPG-removebg-preview_168
+  - first:
+      213: -3164582071764768301
+    second: Avores_RPG-removebg-preview_169
+  - first:
+      213: 3438249813250297172
+    second: Avores_RPG-removebg-preview_170
+  - first:
+      213: -2121969687684921771
+    second: Avores_RPG-removebg-preview_171
+  - first:
+      213: 4400946647260326664
+    second: Avores_RPG-removebg-preview_172
+  - first:
+      213: 3339173274789018211
+    second: Avores_RPG-removebg-preview_173
+  - first:
+      213: -4749512760200889687
+    second: Avores_RPG-removebg-preview_174
+  - first:
+      213: -6813862358108547460
+    second: Avores_RPG-removebg-preview_175
+  - first:
+      213: -6226257675032481987
+    second: Avores_RPG-removebg-preview_176
+  - first:
+      213: 1218815506828515884
+    second: Avores_RPG-removebg-preview_177
+  - first:
+      213: 4687811295100728876
+    second: Avores_RPG-removebg-preview_178
+  - first:
+      213: 4745937009595425727
+    second: Avores_RPG-removebg-preview_179
+  - first:
+      213: -1290498750338848241
+    second: Avores_RPG-removebg-preview_180
+  - first:
+      213: 5917453810724344522
+    second: Avores_RPG-removebg-preview_181
+  - first:
+      213: -860281578425643738
+    second: Avores_RPG-removebg-preview_182
+  - first:
+      213: 6026095672836466173
+    second: Avores_RPG-removebg-preview_183
+  - first:
+      213: -2324878751510093528
+    second: Avores_RPG-removebg-preview_184
+  - first:
+      213: -7277987456708521487
+    second: Avores_RPG-removebg-preview_185
+  - first:
+      213: 2564108084892437677
+    second: Avores_RPG-removebg-preview_186
+  - first:
+      213: 8236915191330053061
+    second: Avores_RPG-removebg-preview_187
+  - first:
+      213: 900166226266568961
+    second: Avores_RPG-removebg-preview_188
+  - first:
+      213: -4197589741988109486
+    second: Avores_RPG-removebg-preview_189
+  - first:
+      213: 4065562150986015349
+    second: Avores_RPG-removebg-preview_190
+  - first:
+      213: -2394015025590016284
+    second: Avores_RPG-removebg-preview_191
+  - first:
+      213: -3515099428207774201
+    second: Avores_RPG-removebg-preview_192
+  - first:
+      213: -1054214347921021410
+    second: Avores_RPG-removebg-preview_193
+  - first:
+      213: -5049495361189463040
+    second: Avores_RPG-removebg-preview_194
+  - first:
+      213: 4040757371788970676
+    second: Avores_RPG-removebg-preview_195
+  - first:
+      213: 8111000406255563908
+    second: Avores_RPG-removebg-preview_196
+  - first:
+      213: 8736409964059106307
+    second: Avores_RPG-removebg-preview_197
+  - first:
+      213: 3318419673389616546
+    second: Avores_RPG-removebg-preview_198
+  - first:
+      213: 8913700005916891269
+    second: Avores_RPG-removebg-preview_199
+  - first:
+      213: -643957554488622441
+    second: Avores_RPG-removebg-preview_200
+  - first:
+      213: -5443185962051001338
+    second: Avores_RPG-removebg-preview_201
+  - first:
+      213: 3825526270990568158
+    second: Avores_RPG-removebg-preview_202
+  - first:
+      213: 4645550710416431750
+    second: Avores_RPG-removebg-preview_203
+  - first:
+      213: 465566549497808741
+    second: Avores_RPG-removebg-preview_204
+  - first:
+      213: 3650913973760371545
+    second: Avores_RPG-removebg-preview_205
+  - first:
+      213: 5270149486038797732
+    second: Avores_RPG-removebg-preview_206
+  - first:
+      213: 8633973334254166455
+    second: Avores_RPG-removebg-preview_207
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61acfd8fcfd7561f0800000000000000
+      internalID: -1052296412460496362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cebe7a7315ca3e0800000000000000
+      internalID: -2041167231623369586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1462c0aff52d30800000000000000
+      internalID: 4406208876373088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ce0fd27d51d6a20800000000000000
+      internalID: 3057123735987350532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51450558ea0c85300800000000000000
+      internalID: 241154435857798165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6df109de901e030800000000000000
+      internalID: 3522107299510343403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d099d106d27acd0800000000000000
+      internalID: -2547017173418046095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94aa656834cd6c00800000000000000
+      internalID: 895587647415297183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7c9e75690bfcf0800000000000000
+      internalID: -217569825476805743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 683
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b0851776ef7750800000000000000
+      internalID: 6305011402478237711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca2e1ada2626b10800000000000000
+      internalID: 1973248084626549967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502cbd3a2ea9c640800000000000000
+      internalID: 5100799549421396048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c32892a04aeaf0800000000000000
+      internalID: -366409352595912488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a62f06218b0f640800000000000000
+      internalID: 5111787966140934718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca6e1f723a3d910800000000000000
+      internalID: 1861010462991625351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10947f114d9a0ef0800000000000000
+      internalID: -141127535282581473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2f833212a49b60800000000000000
+      internalID: 7751999057669599190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3034cdfc0d1f220800000000000000
+      internalID: 2518023257849005047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d890d69d44eb180800000000000000
+      internalID: -9097758496613888657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 651
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff65ada0be46f880800000000000000
+      internalID: -8577581919546019855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf920b3292462280800000000000000
+      internalID: -9068487603841228865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a7cf2989fdf790800000000000000
+      internalID: -7494559837267188081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4b4a8a52ffe4a0800000000000000
+      internalID: -6561759661374354762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2995c191e519a0800000000000000
+      internalID: -6262851690587148585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7511fb34d23ceb70800000000000000
+      internalID: 8929568048288961915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f509945fa24cf1d0800000000000000
+      internalID: -3315701904845502985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06926b30ff5f5cf50800000000000000
+      internalID: 6901192479642888544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f93c70f4aba2380800000000000000
+      internalID: -8995172457123700837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70104bf9ff3acb430800000000000000
+      internalID: 3800092503885218055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 619
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b93708c2df3a6c0800000000000000
+      internalID: -4133181665420535040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4e7ea221b50fc0800000000000000
+      internalID: -3529219970460398076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d877367bbcaac020800000000000000
+      internalID: 2362890875651455191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d9e61fa0173070800000000000000
+      internalID: 8085950000156760336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e66a14d493f33f0800000000000000
+      internalID: -918952794983600588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ccc761c82c8120800000000000000
+      internalID: 2417351911126385400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c2a432aaa7bda0800000000000000
+      internalID: -5929082770765462383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea302e85f8d29370800000000000000
+      internalID: 8327957210124532457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21813647893495970800000000000000
+      internalID: 8744094473583269906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766e558a8fa63a70800000000000000
+      internalID: 8806419130847487605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 587
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d23de8521314c0800000000000000
+      internalID: -4318087444572219135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c231a3259d1a80800000000000000
+      internalID: -8494469341890034522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283ca9e1e3609ae00800000000000000
+      internalID: 1056382451466290050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d133368a16731ea0800000000000000
+      internalID: -5903244830259858991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc9a23c35bc9db0800000000000000
+      internalID: -4783749434021654698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb332eefb6df12a0800000000000000
+      internalID: -6764451995464811552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3a2f3705682600800000000000000
+      internalID: 443715645094903627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e6152ebccd0480800000000000000
+      internalID: -8931257368967715494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a2711e997a8840800000000000000
+      internalID: 5227124037321402350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c00b1e2f3d7d3c0800000000000000
+      internalID: -4334763076198855611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b43d113780c0c0800000000000000
+      internalID: -4557494177885802308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c54c3bc29cf1f0800000000000000
+      internalID: -1009770814850611471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a278e76f6a4e04e0800000000000000
+      internalID: -2013590141042920793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6630179490e970800000000000000
+      internalID: 8782182649905442242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010013d67d6ad9a0800000000000000
+      internalID: -6207528779262197491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2d38b4d02100f0800000000000000
+      internalID: -1152603931633964163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed36d495cd7a4390800000000000000
+      internalID: -7833310314298458648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128178077282c650800000000000000
+      internalID: 6251702680498045466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a04b1bc10629ac0800000000000000
+      internalID: -3849909055091635633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d2bab68ffc1280800000000000000
+      internalID: -9071094595308038125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7615d75c97da450800000000000000
+      internalID: 6101666959274895271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a16a424cad0c50800000000000000
+      internalID: 6633147226902341267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f7d23eeb622420800000000000000
+      internalID: 2603762205372971469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d581fee5d6adc0800000000000000
+      internalID: -3627977227569342831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c5c5ab4ecd95d40800000000000000
+      internalID: 5573728888784968743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0984c465a1a020800000000000000
+      internalID: 2351342332676738650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e85d9430f8f670800000000000000
+      internalID: 8572865999468552606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c55b1c46a0865f0800000000000000
+      internalID: -763348708976403305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5879aede9104d00800000000000000
+      internalID: 954791630636287437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48ae62f4e2aa150800000000000000
+      internalID: 5884566780603172087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 491
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ccdd871cad43e0800000000000000
+      internalID: -2067807436728908563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee4d97880051c20800000000000000
+      internalID: 3176445698339303118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3851199e2a719e30800000000000000
+      internalID: 4508519042529712188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d26ecd50a1d7b80800000000000000
+      internalID: -8395525517865505521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb48fe71174cf530800000000000000
+      internalID: 3890062318611483617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355afdeda77fc900800000000000000
+      internalID: 706915255426110769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ebe9b067a528b0800000000000000
+      internalID: -5177548162714572482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace50fe4fbd0e140800000000000000
+      internalID: 4747035852277148838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56cbdca570001a50800000000000000
+      internalID: 6489687568452142687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbecd00796c6560800000000000000
+      internalID: 7308332225304378862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 459
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a984428332db9870800000000000000
+      internalID: 8690771024612198825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd733fa9a6ba890800000000000000
+      internalID: -7445740345188950699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df79ec400c4ff60800000000000000
+      internalID: 8067283959405870348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1913fd55b6ded30800000000000000
+      internalID: 4462340822354989523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e955785166dd323f0800000000000000
+      internalID: -926653667790596706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eed1216631fc180800000000000000
+      internalID: -9093027793526198668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be067b7bd15ea590800000000000000
+      internalID: -7661095912999612748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b186ab6ad9f4d10800000000000000
+      internalID: 2112080089677568818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4962e3831918f80800000000000000
+      internalID: -8106038183543270197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff5c11d9144ceb0800000000000000
+      internalID: -4700559968204095579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775fe95f9ac840010800000000000000
+      internalID: 1154202066111886711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e33ab92085e2f0800000000000000
+      internalID: -944207630158274301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56027ac0c7420850800000000000000
+      internalID: 6341710118646842975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc76c540471c0700800000000000000
+      internalID: 507806422802005214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1337aeaff921bb0800000000000000
+      internalID: -4966731539012177462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319adf47af8498040800000000000000
+      internalID: 4650328330778552595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11eb23e8ad32de0800000000000000
+      internalID: -1359002358264229400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398623e211b9b980800000000000000
+      internalID: -8522586125143471818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f548b4a90f3b8cdd0800000000000000
+      internalID: -2465522950023183265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d80cbacb6a34680800000000000000
+      internalID: -8771984319922008698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 395
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d4eb88d2769bd0800000000000000
+      internalID: -2623783458511203756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab847e041284f550800000000000000
+      internalID: 6193718410194750383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf85300eaa90cfb0800000000000000
+      internalID: -4629530344818372669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb35e19c4db2a10800000000000000
+      internalID: 1885834829247004642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986ee597a3980fad0800000000000000
+      internalID: -2670483694793333111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99086a196bbb37410800000000000000
+      internalID: 1473727895882334361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b90b9b4e27fcc0800000000000000
+      internalID: -3677419668466191089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa106e428ac6f60800000000000000
+      internalID: 8028977112125909507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c43293a7dbfbc0800000000000000
+      internalID: -3748165167323233188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2100fde9248e8b410800000000000000
+      internalID: 1493198649304219666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e882ef6c57feea0800000000000000
+      internalID: -5841320694148198830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353314f186ea9bf0800000000000000
+      internalID: -316687377956129485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c018b50ae18e1dbd0800000000000000
+      internalID: -2607047491033792244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e97faef41547580800000000000000
+      internalID: -8830343565680337321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cd20ca05919eb0800000000000000
+      internalID: -4714823461473762460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6312e19b0be58dc50800000000000000
+      internalID: 6690201359571886390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043266c0979933f0800000000000000
+      internalID: -920538000761146358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6fd45f71465300800000000000000
+      internalID: 240451645251481563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97c7fe462d7e470800000000000000
+      internalID: 8423932958976276924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e21f10da983e6f0800000000000000
+      internalID: -656529744511029630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 331
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d9c23f6a3ff0c0800000000000000
+      internalID: -4539845650098301402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95fc3949bc4b310800000000000000
+      internalID: 1419983621523986896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858287615af3d30d0800000000000000
+      internalID: -3441524561962063784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f252325b43e5df0800000000000000
+      internalID: -189656181719617791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae27cb147da9be0800000000000000
+      internalID: -1469625651048551766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870286b7a0acfad30800000000000000
+      internalID: 4444993503606874232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54fcc2a29c71770800000000000000
+      internalID: 8581548797955360239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053dc3cdfc867fe20800000000000000
+      internalID: 3384288886954709840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3dfa06224eb3b0800000000000000
+      internalID: -5494881764184867674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff763811864e8d0800000000000000
+      internalID: -2818013042398724159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c172d0db171960210800000000000000
+      internalID: 1298885460232054556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f64116baa1cc10800000000000000
+      internalID: 2072125002517770533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9425b20e297bdbc0800000000000000
+      internalID: -3757276225589664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4578a5fe0956d00800000000000000
+      internalID: 965337052831241470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8b71dfb113ba10800000000000000
+      internalID: 1923900981368295022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989acc1e3a18f61e0800000000000000
+      internalID: -2202399151892944503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b21e06d66839b80800000000000000
+      internalID: -8389213876526175344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855d110977db6360800000000000000
+      internalID: 7164056546972620166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142ac716513e7d20800000000000000
+      internalID: 3278111824608371737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04652d55bb6452c0800000000000000
+      internalID: -4443808505611852788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bf324f3c13b3600800000000000000
+      internalID: 449007305537878901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6576d527113f750800000000000000
+      internalID: 6337428283531417313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f921a1d7b41c7db0800000000000000
+      internalID: -4792933123700479495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9efd42700444290800000000000000
+      internalID: -7907124646328145497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800e1a3c9ba985a0800000000000000
+      internalID: -6518490298163789683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3917caae713e20800000000000000
+      internalID: 3328580871553366713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7b1cb321d71100800000000000000
+      internalID: 78761469912250976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639effd6f8b4ba00800000000000000
+      internalID: 771444806646666081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6671ce20a8451d50800000000000000
+      internalID: 6707347072854619755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b669258034dfa0800000000000000
+      internalID: -5776939073526123329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a19c3a1a25f94600800000000000000
+      internalID: 453162798705054117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5880e24458dca1e0800000000000000
+      internalID: -2185133862770669476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5253682bcd94cc0800000000000000
+      internalID: -3726204557358455317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8496cf561ed5a0800000000000000
+      internalID: -6494729012012348805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d313aa84401300800000000000000
+      internalID: 220751743973316621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60796f8e1289da6c0800000000000000
+      internalID: -4130478011819059450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed5ce531f6d8090800000000000000
+      internalID: -8030640431546638726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32414cb6759e6a860800000000000000
+      internalID: 7540971187757913123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561561cae03172d0800000000000000
+      internalID: -3282788868551272867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216f29b6676b9c90800000000000000
+      internalID: -7162017091511426778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54272ee8a93207710800000000000000
+      internalID: 1688889006993076805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9c4fd1dbd417c0800000000000000
+      internalID: -4101411666186691484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6d1a181a138fd0800000000000000
+      internalID: -2340998690482852930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ec2d84a58aa5c0800000000000000
+      internalID: -4203400360407275631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d8bf3430a84190800000000000000
+      internalID: -7977950593619011664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13e2aa8c2cf0710800000000000000
+      internalID: 1661760954627404225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44bd78b36f89240800000000000000
+      internalID: 4798856138506061007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194dc538f12e30c70800000000000000
+      internalID: 8936234710608958609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37688a7cd57f5c7c0800000000000000
+      internalID: -4051560307596163469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac5ec38d1ef7a20800000000000000
+      internalID: 3062414590486104729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d924e55f552514d0800000000000000
+      internalID: -3164582071764768301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d46df0dfd17bf20800000000000000
+      internalID: 3438249813250297172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c46dcfcf3d82e0800000000000000
+      internalID: -2121969687684921771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be56198ad431d30800000000000000
+      internalID: 4400946647260326664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af647d660275e20800000000000000
+      internalID: 3339173274789018211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7a000f47561eb0800000000000000
+      internalID: -4749512760200889687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d884694c4071a0800000000000000
+      internalID: -6813862358108547460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa3a7f1a3e799a0800000000000000
+      internalID: -6226257675032481987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a5043fe3a1ae010800000000000000
+      internalID: 1218815506828515884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26fa8a29837e0140800000000000000
+      internalID: 4687811295100728876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a05fa094fcd140800000000000000
+      internalID: 4745937009595425727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa7f2593a371ee0800000000000000
+      internalID: -1290498750338848241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2910b83e40f1250800000000000000
+      internalID: 5917453810724344522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d802f567aaf04f0800000000000000
+      internalID: -860281578425643738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5afe9361ef0a350800000000000000
+      internalID: 6026095672836466173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821236ed71f5cbfd0800000000000000
+      internalID: -2324878751510093528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d323f7f46ffa90800000000000000
+      internalID: -7277987456708521487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac88bdc7ba859320800000000000000
+      internalID: 2564108084892437677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1f38b9b66f4270800000000000000
+      internalID: 8236915191330053061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093c6bd9680e7c00800000000000000
+      internalID: 900166226266568961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a9f39e5a2fb5c0800000000000000
+      internalID: -4197589741988109486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726bcd6c37cb6830800000000000000
+      internalID: 4065562150986015349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e662cca400c6ced0800000000000000
+      internalID: -2394015025590016284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063f7f91bbd73fc0800000000000000
+      internalID: -3515099428207774201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162c03d2adae51f0800000000000000
+      internalID: -1054214347921021410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb15de8b69ce9b0800000000000000
+      internalID: -5049495361189463040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac509bb67a31830800000000000000
+      internalID: 4040757371788970676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48479e345ef009070800000000000000
+      internalID: 8111000406255563908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1de72396fd3970800000000000000
+      internalID: 8736409964059106307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4e087c156d0e20800000000000000
+      internalID: 3318419673389616546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d217bde2d3bb70800000000000000
+      internalID: 8913700005916891269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c64a14043017f0800000000000000
+      internalID: -643957554488622441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ae8de43be574b0800000000000000
+      internalID: -5443185962051001338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda415dffdff61530800000000000000
+      internalID: 3825526270990568158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5f6802cf487040800000000000000
+      internalID: 4645550710416431750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670f126f46067600800000000000000
+      internalID: 465566549497808741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2f7f6ae6aaa230800000000000000
+      internalID: 3650913973760371545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adcc8cf805532940800000000000000
+      internalID: 5270149486038797732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avores_RPG-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12a64b00902d770800000000000000
+      internalID: 8633973334254166455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
