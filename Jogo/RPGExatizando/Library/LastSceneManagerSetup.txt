@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/Hist\xF3ria/Masmorra/SampleScene.unity"
+- path: "Assets/Scenes/Hist\xF3ria/Masmorra/scene1_F1.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
