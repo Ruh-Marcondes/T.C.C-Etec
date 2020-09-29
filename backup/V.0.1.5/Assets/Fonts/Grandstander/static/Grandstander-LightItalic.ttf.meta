@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1213e4ef779327d419c6508addb66803
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grandstander
+  fontNames:
+  - Grandstander
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b10e92d573f04654598ab627cb0c308c, type: 3}
+  - {fileID: 12800000, guid: 512488e75d202f74a9cd974759c9cffc, type: 3}
+  - {fileID: 12800000, guid: 611bb35ae1262b1468c027805950b940, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
