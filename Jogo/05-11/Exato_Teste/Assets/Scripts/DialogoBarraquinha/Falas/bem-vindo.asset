@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92cadbbc262d754c99486172d01562d, type: 3}
+  m_Name: bem-vindo
+  m_EditorClassIdentifier: 
+  fala: 'Seja bem vindo a Exatizando '
+  respostas:
+  - resposta: "Quem \xE9 voc\xEA?"
+    proximaFala: {fileID: 11400000, guid: ef65fc1076c285d448e825596be32b19, type: 2}
+  - resposta: Como eu saio daqui?
+    proximaFala: {fileID: 11400000, guid: 8547ad597f9183141b3d5e0235cabf24, type: 2}
